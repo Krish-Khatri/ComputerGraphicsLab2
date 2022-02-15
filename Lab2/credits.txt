@@ -1,0 +1,25 @@
+Rice Univesity 
+Computer Science - COMP360 
+Lab - Iterated Function System
+
+
+Libraries
+-----------------------------------
+Fast Light Tookit
+http://www.fltk.org/
+
+libbmp
+http://code.google.com/p/libbmp/
+
+Matrix.h
+Author could be any one of the following people: 
+Sridhar Lavu, Travis McPhail, Steve J
+
+
+
+
+
+
+
+Powei Feng
+Fall 2012
